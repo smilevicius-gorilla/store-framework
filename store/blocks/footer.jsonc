@@ -39,15 +39,15 @@
       "socialNetworks": [
         {
           "url": "https://facebook.com",
-          "name": "facebook"
+          "name": "Facebook"
         },
         {
           "url": "https://instagram.com",
-          "name": "instagram"
+          "name": "Instagram"
         },
         {
           "url": "https://twitter.com",
-          "name": "twitter"
+          "name": "Twitter"
         }
       ],
       "showInColor": true
